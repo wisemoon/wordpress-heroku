@@ -15,7 +15,7 @@ Installation
 
 Cloner le dépot de  Github
 
-    $ git clone git://github.com/xyu/wordpress-heroku-mysql.git 
+    $ git clone git://github.com/wisemoon/wordpress-heroku-mysqldb.git 
 
 Avec [Heroku gem](http://devcenter.heroku.com/articles/heroku-command), créer votre app
 
